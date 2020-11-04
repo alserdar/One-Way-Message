@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889828241870",
+    "firebase_url": "https://onw-way-message.firebaseio.com",
+    "project_id": "onw-way-message",
+    "storage_bucket": "onw-way-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889828241870:android:0f57dba466f1b5ed9bbb9f",
+        "android_client_info": {
+          "package_name": "alserdar89.onewaymessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889828241870-4ehcqgi22lsq0jhliohdvvjvj0l5moq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alserdar89.onewaymessage",
+            "certificate_hash": "bed5ec3b8ab76ec3b2efb2508d30d9692b3660a2"
+          }
+        },
+        {
+          "client_id": "889828241870-h21ko9ssuaut4crj7sp1io4qstbl01gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppnr-aa95noLc2cQrtO5X7i-12RVefcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889828241870-h21ko9ssuaut4crj7sp1io4qstbl01gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
